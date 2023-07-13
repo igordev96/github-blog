@@ -2,7 +2,6 @@ import { useMemo } from 'react';
 import Anchor from './Anchor';
 import Badge from './Badge';
 import { convertDateToDays } from '../utils';
-import Spinner from './Spinner';
 
 export type CardType = 'PROFILE' | 'POST_HEADER';
 
